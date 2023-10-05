@@ -81,7 +81,7 @@ Action get_user_action ()
 }
 
 int initial_encryption_value ()
-{// Pre-conditie:
+{// Pre-condition:
     assert (true) ;
 /*  Post-condition:
     result is a value between 0 and 65355 (both inclusive)
