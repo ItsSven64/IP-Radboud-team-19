@@ -1,0 +1,3 @@
+C:/Users/svend/Desktop/IP-Radboud-team-19/Week5/Bonus/build/_deps/googletest-subbuild/CMakeFiles/googletest-populate.dir
+C:/Users/svend/Desktop/IP-Radboud-team-19/Week5/Bonus/build/_deps/googletest-subbuild/CMakeFiles/edit_cache.dir
+C:/Users/svend/Desktop/IP-Radboud-team-19/Week5/Bonus/build/_deps/googletest-subbuild/CMakeFiles/rebuild_cache.dir
