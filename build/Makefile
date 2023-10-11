@@ -56,7 +56,7 @@ RM = C:\Users\svend\AppData\Local\Programs\ImperativeProgramming\cmake-3.27.4-wi
 EQUALS = =
 
 # The top-level source directory on which CMake was run.
-CMAKE_SOURCE_DIR = C:\Users\svend\Desktop\IP-Radboud-team-19\Week5\Mandatory
+CMAKE_SOURCE_DIR = C:\Users\svend\Desktop\IP-Radboud-team-19\Week5\Bonus
 
 # The top-level build directory on which CMake was run.
 CMAKE_BINARY_DIR = C:\Users\svend\Desktop\IP-Radboud-team-19\build
@@ -171,30 +171,30 @@ depend:
 .PHONY : depend
 
 #=============================================================================
-# Target rules for targets named assignment-05-mandatory
+# Target rules for targets named assignment-05-bonus
 
 # Build rule for target.
-assignment-05-mandatory: cmake_check_build_system
-	$(MAKE) $(MAKESILENT) -f CMakeFiles\Makefile2 assignment-05-mandatory
-.PHONY : assignment-05-mandatory
+assignment-05-bonus: cmake_check_build_system
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\Makefile2 assignment-05-bonus
+.PHONY : assignment-05-bonus
 
 # fast build rule for target.
-assignment-05-mandatory/fast:
-	$(MAKE) $(MAKESILENT) -f CMakeFiles\assignment-05-mandatory.dir\build.make CMakeFiles/assignment-05-mandatory.dir/build
-.PHONY : assignment-05-mandatory/fast
+assignment-05-bonus/fast:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\assignment-05-bonus.dir\build.make CMakeFiles/assignment-05-bonus.dir/build
+.PHONY : assignment-05-bonus/fast
 
 #=============================================================================
-# Target rules for targets named assignment-05-mandatory_test
+# Target rules for targets named assignment-05-bonus_test
 
 # Build rule for target.
-assignment-05-mandatory_test: cmake_check_build_system
-	$(MAKE) $(MAKESILENT) -f CMakeFiles\Makefile2 assignment-05-mandatory_test
-.PHONY : assignment-05-mandatory_test
+assignment-05-bonus_test: cmake_check_build_system
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\Makefile2 assignment-05-bonus_test
+.PHONY : assignment-05-bonus_test
 
 # fast build rule for target.
-assignment-05-mandatory_test/fast:
-	$(MAKE) $(MAKESILENT) -f CMakeFiles\assignment-05-mandatory_test.dir\build.make CMakeFiles/assignment-05-mandatory_test.dir/build
-.PHONY : assignment-05-mandatory_test/fast
+assignment-05-bonus_test/fast:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\assignment-05-bonus_test.dir\build.make CMakeFiles/assignment-05-bonus_test.dir/build
+.PHONY : assignment-05-bonus_test/fast
 
 #=============================================================================
 # Target rules for targets named gmock
@@ -253,7 +253,7 @@ main.obj: main.cpp.obj
 
 # target to build an object file
 main.cpp.obj:
-	$(MAKE) $(MAKESILENT) -f CMakeFiles\assignment-05-mandatory.dir\build.make CMakeFiles/assignment-05-mandatory.dir/main.cpp.obj
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\assignment-05-bonus.dir\build.make CMakeFiles/assignment-05-bonus.dir/main.cpp.obj
 .PHONY : main.cpp.obj
 
 main.i: main.cpp.i
@@ -261,7 +261,7 @@ main.i: main.cpp.i
 
 # target to preprocess a source file
 main.cpp.i:
-	$(MAKE) $(MAKESILENT) -f CMakeFiles\assignment-05-mandatory.dir\build.make CMakeFiles/assignment-05-mandatory.dir/main.cpp.i
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\assignment-05-bonus.dir\build.make CMakeFiles/assignment-05-bonus.dir/main.cpp.i
 .PHONY : main.cpp.i
 
 main.s: main.cpp.s
@@ -269,7 +269,7 @@ main.s: main.cpp.s
 
 # target to generate assembly for a file
 main.cpp.s:
-	$(MAKE) $(MAKESILENT) -f CMakeFiles\assignment-05-mandatory.dir\build.make CMakeFiles/assignment-05-mandatory.dir/main.cpp.s
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\assignment-05-bonus.dir\build.make CMakeFiles/assignment-05-bonus.dir/main.cpp.s
 .PHONY : main.cpp.s
 
 main_test.obj: main_test.cpp.obj
@@ -277,7 +277,7 @@ main_test.obj: main_test.cpp.obj
 
 # target to build an object file
 main_test.cpp.obj:
-	$(MAKE) $(MAKESILENT) -f CMakeFiles\assignment-05-mandatory_test.dir\build.make CMakeFiles/assignment-05-mandatory_test.dir/main_test.cpp.obj
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\assignment-05-bonus_test.dir\build.make CMakeFiles/assignment-05-bonus_test.dir/main_test.cpp.obj
 .PHONY : main_test.cpp.obj
 
 main_test.i: main_test.cpp.i
@@ -285,7 +285,7 @@ main_test.i: main_test.cpp.i
 
 # target to preprocess a source file
 main_test.cpp.i:
-	$(MAKE) $(MAKESILENT) -f CMakeFiles\assignment-05-mandatory_test.dir\build.make CMakeFiles/assignment-05-mandatory_test.dir/main_test.cpp.i
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\assignment-05-bonus_test.dir\build.make CMakeFiles/assignment-05-bonus_test.dir/main_test.cpp.i
 .PHONY : main_test.cpp.i
 
 main_test.s: main_test.cpp.s
@@ -293,7 +293,7 @@ main_test.s: main_test.cpp.s
 
 # target to generate assembly for a file
 main_test.cpp.s:
-	$(MAKE) $(MAKESILENT) -f CMakeFiles\assignment-05-mandatory_test.dir\build.make CMakeFiles/assignment-05-mandatory_test.dir/main_test.cpp.s
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\assignment-05-bonus_test.dir\build.make CMakeFiles/assignment-05-bonus_test.dir/main_test.cpp.s
 .PHONY : main_test.cpp.s
 
 # Help Target
@@ -309,8 +309,8 @@ help:
 	@echo ... list_install_components
 	@echo ... rebuild_cache
 	@echo ... test
-	@echo ... assignment-05-mandatory
-	@echo ... assignment-05-mandatory_test
+	@echo ... assignment-05-bonus
+	@echo ... assignment-05-bonus_test
 	@echo ... gmock
 	@echo ... gmock_main
 	@echo ... gtest

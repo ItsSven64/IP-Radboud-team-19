@@ -91,7 +91,7 @@
 					[
 						0
 					],
-					"name" : "assignment-05-mandatory",
+					"name" : "assignment-05-bonus",
 					"targetIndexes" : 
 					[
 						0,
@@ -145,43 +145,43 @@
 			[
 				{
 					"directoryIndex" : 0,
-					"id" : "assignment-05-mandatory::@6890427a1f51a3e7e1df",
-					"jsonFile" : "target-assignment-05-mandatory-Debug-67e20b826e8663afe5fd.json",
-					"name" : "assignment-05-mandatory",
+					"id" : "assignment-05-bonus::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-assignment-05-bonus-Debug-d4802e0c4b0a074a4b6b.json",
+					"name" : "assignment-05-bonus",
 					"projectIndex" : 0
 				},
 				{
 					"directoryIndex" : 0,
-					"id" : "assignment-05-mandatory_test::@6890427a1f51a3e7e1df",
-					"jsonFile" : "target-assignment-05-mandatory_test-Debug-a1ee1a187b5f5a353d90.json",
-					"name" : "assignment-05-mandatory_test",
+					"id" : "assignment-05-bonus_test::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-assignment-05-bonus_test-Debug-d39f859845f50723b565.json",
+					"name" : "assignment-05-bonus_test",
 					"projectIndex" : 0
 				},
 				{
 					"directoryIndex" : 2,
 					"id" : "gmock::@0f7bb11d64f3678238c7",
-					"jsonFile" : "target-gmock-Debug-d33e88597f0d2f0b0bf7.json",
+					"jsonFile" : "target-gmock-Debug-3867f74e82db3d0cc758.json",
 					"name" : "gmock",
 					"projectIndex" : 2
 				},
 				{
 					"directoryIndex" : 2,
 					"id" : "gmock_main::@0f7bb11d64f3678238c7",
-					"jsonFile" : "target-gmock_main-Debug-2956a84ca4e4c5aa2171.json",
+					"jsonFile" : "target-gmock_main-Debug-fd6e0a3153ec4d8a9a53.json",
 					"name" : "gmock_main",
 					"projectIndex" : 2
 				},
 				{
 					"directoryIndex" : 3,
 					"id" : "gtest::@1ea2dfc0605fe3ab2a3f",
-					"jsonFile" : "target-gtest-Debug-5a6fc484b063e4eda086.json",
+					"jsonFile" : "target-gtest-Debug-78718ac890771a473971.json",
 					"name" : "gtest",
 					"projectIndex" : 3
 				},
 				{
 					"directoryIndex" : 3,
 					"id" : "gtest_main::@1ea2dfc0605fe3ab2a3f",
-					"jsonFile" : "target-gtest_main-Debug-a7d83b33e52ebdfd6549.json",
+					"jsonFile" : "target-gtest_main-Debug-beedd0e642b3b9c44ed5.json",
 					"name" : "gtest_main",
 					"projectIndex" : 3
 				}
@@ -192,7 +192,7 @@
 	"paths" : 
 	{
 		"build" : "C:/Users/svend/Desktop/IP-Radboud-team-19/build",
-		"source" : "C:/Users/svend/Desktop/IP-Radboud-team-19/Week5/Mandatory"
+		"source" : "C:/Users/svend/Desktop/IP-Radboud-team-19/Week5/Bonus"
 	},
 	"version" : 
 	{

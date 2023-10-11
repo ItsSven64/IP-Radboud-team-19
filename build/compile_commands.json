@@ -1,15 +1,15 @@
 [
 {
   "directory": "C:/Users/svend/Desktop/IP-Radboud-team-19/build",
-  "command": "C:\\Users\\svend\\AppData\\Local\\Programs\\ImperativeProgramming\\mingw64\\bin\\g++.exe   -g -std=gnu++20 -Wall -Wextra -pedantic-errors -o CMakeFiles\\assignment-05-mandatory.dir\\main.cpp.obj -c C:\\Users\\svend\\Desktop\\IP-Radboud-team-19\\Week5\\Mandatory\\main.cpp",
-  "file": "C:/Users/svend/Desktop/IP-Radboud-team-19/Week5/Mandatory/main.cpp",
-  "output": "CMakeFiles/assignment-05-mandatory.dir/main.cpp.obj"
+  "command": "C:\\Users\\svend\\AppData\\Local\\Programs\\ImperativeProgramming\\mingw64\\bin\\g++.exe   -g -std=gnu++20 -Wall -Wextra -pedantic-errors -o CMakeFiles\\assignment-05-bonus.dir\\main.cpp.obj -c C:\\Users\\svend\\Desktop\\IP-Radboud-team-19\\Week5\\Bonus\\main.cpp",
+  "file": "C:/Users/svend/Desktop/IP-Radboud-team-19/Week5/Bonus/main.cpp",
+  "output": "CMakeFiles/assignment-05-bonus.dir/main.cpp.obj"
 },
 {
   "directory": "C:/Users/svend/Desktop/IP-Radboud-team-19/build",
-  "command": "C:\\Users\\svend\\AppData\\Local\\Programs\\ImperativeProgramming\\mingw64\\bin\\g++.exe -DTESTING @CMakeFiles/assignment-05-mandatory_test.dir/includes_CXX.rsp -g -std=gnu++20 -o CMakeFiles\\assignment-05-mandatory_test.dir\\main_test.cpp.obj -c C:\\Users\\svend\\Desktop\\IP-Radboud-team-19\\Week5\\Mandatory\\main_test.cpp",
-  "file": "C:/Users/svend/Desktop/IP-Radboud-team-19/Week5/Mandatory/main_test.cpp",
-  "output": "CMakeFiles/assignment-05-mandatory_test.dir/main_test.cpp.obj"
+  "command": "C:\\Users\\svend\\AppData\\Local\\Programs\\ImperativeProgramming\\mingw64\\bin\\g++.exe -DTESTING @CMakeFiles/assignment-05-bonus_test.dir/includes_CXX.rsp -g -std=gnu++20 -o CMakeFiles\\assignment-05-bonus_test.dir\\main_test.cpp.obj -c C:\\Users\\svend\\Desktop\\IP-Radboud-team-19\\Week5\\Bonus\\main_test.cpp",
+  "file": "C:/Users/svend/Desktop/IP-Radboud-team-19/Week5/Bonus/main_test.cpp",
+  "output": "CMakeFiles/assignment-05-bonus_test.dir/main_test.cpp.obj"
 },
 {
   "directory": "C:/Users/svend/Desktop/IP-Radboud-team-19/build/_deps/googletest-build/googlemock",

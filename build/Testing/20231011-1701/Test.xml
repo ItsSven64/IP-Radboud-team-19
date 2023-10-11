@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Site BuildName="(empty)"
+	BuildStamp="20231011-1701-Experimental"
+	Name="(empty)"
+	Generator="ctest-3.27.4"
+	CompilerName=""
+	CompilerVersion=""
+	OSName="Windows"
+	Hostname="LAPTOPSVENDEWIT"
+	OSRelease=" Personal"
+	OSVersion=" (Build 22621)"
+	OSPlatform="AMD64"
+	Is64Bits="1"
+	VendorString="GenuineIntel"
+	VendorID="Intel Corporation"
+	FamilyID="6"
+	ModelID="14"
+	ProcessorCacheSize="-1"
+	NumberOfLogicalCPU="4"
+	NumberOfPhysicalCPU="2"
+	TotalVirtualMemory="14472"
+	TotalPhysicalMemory="8072"
+	LogicalProcessorsPerPhysical="2"
+	ProcessorClockFrequency="2303"
+	>
+	<Testing>
+		<StartDateTime>Oct 11 19:01 West-Europa (zomertijd)</StartDateTime>
+		<StartTestTime>1697043693</StartTestTime>
+		<TestList/>
+		<EndDateTime>Oct 11 19:01 West-Europa (zomertijd)</EndDateTime>
+		<EndTestTime>1697043693</EndTestTime>
+		<ElapsedMinutes>0</ElapsedMinutes>
+	</Testing>
+</Site>

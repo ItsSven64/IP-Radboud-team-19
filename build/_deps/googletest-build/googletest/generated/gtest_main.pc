@@ -1,5 +1,5 @@
-libdir=C:/Program Files (x86)/assignment-05-mandatory/lib
-includedir=C:/Program Files (x86)/assignment-05-mandatory/include
+libdir=C:/Program Files (x86)/assignment-05-bonus/lib
+includedir=C:/Program Files (x86)/assignment-05-bonus/include
 
 Name: gtest_main
 Description: GoogleTest (with main() function)

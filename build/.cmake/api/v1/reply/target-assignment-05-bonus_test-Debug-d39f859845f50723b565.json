@@ -111,18 +111,18 @@
 	[
 		{
 			"backtrace" : 5,
-			"id" : "assignment-05-mandatory::@6890427a1f51a3e7e1df"
-		},
-		{
-			"backtrace" : 2,
-			"id" : "gtest_main::@1ea2dfc0605fe3ab2a3f"
+			"id" : "assignment-05-bonus::@6890427a1f51a3e7e1df"
 		},
 		{
 			"backtrace" : 2,
 			"id" : "gtest::@1ea2dfc0605fe3ab2a3f"
+		},
+		{
+			"backtrace" : 2,
+			"id" : "gtest_main::@1ea2dfc0605fe3ab2a3f"
 		}
 	],
-	"id" : "assignment-05-mandatory_test::@6890427a1f51a3e7e1df",
+	"id" : "assignment-05-bonus_test::@6890427a1f51a3e7e1df",
 	"link" : 
 	{
 		"commandFragments" : 
@@ -152,7 +152,7 @@
 		],
 		"language" : "CXX"
 	},
-	"name" : "assignment-05-mandatory_test",
+	"name" : "assignment-05-bonus_test",
 	"nameOnDisk" : "main_test.exe",
 	"paths" : 
 	{

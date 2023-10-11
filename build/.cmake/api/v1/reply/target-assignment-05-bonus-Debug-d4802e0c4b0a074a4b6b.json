@@ -75,7 +75,7 @@
 			]
 		}
 	],
-	"id" : "assignment-05-mandatory::@6890427a1f51a3e7e1df",
+	"id" : "assignment-05-bonus::@6890427a1f51a3e7e1df",
 	"link" : 
 	{
 		"commandFragments" : 
@@ -95,7 +95,7 @@
 		],
 		"language" : "CXX"
 	},
-	"name" : "assignment-05-mandatory",
+	"name" : "assignment-05-bonus",
 	"nameOnDisk" : "main.exe",
 	"paths" : 
 	{

@@ -52,7 +52,7 @@ RM = C:\Users\svend\AppData\Local\Programs\ImperativeProgramming\cmake-3.27.4-wi
 EQUALS = =
 
 # The top-level source directory on which CMake was run.
-CMAKE_SOURCE_DIR = C:\Users\svend\Desktop\IP-Radboud-team-19\Week5\Mandatory
+CMAKE_SOURCE_DIR = C:\Users\svend\Desktop\IP-Radboud-team-19\Week5\Bonus
 
 # The top-level build directory on which CMake was run.
 CMAKE_BINARY_DIR = C:\Users\svend\Desktop\IP-Radboud-team-19\build
@@ -106,6 +106,6 @@ _deps/googletest-build/googletest/CMakeFiles/gtest.dir/clean:
 .PHONY : _deps/googletest-build/googletest/CMakeFiles/gtest.dir/clean
 
 _deps/googletest-build/googletest/CMakeFiles/gtest.dir/depend:
-	$(CMAKE_COMMAND) -E cmake_depends "MinGW Makefiles" C:\Users\svend\Desktop\IP-Radboud-team-19\Week5\Mandatory C:\Users\svend\Desktop\IP-Radboud-team-19\build\_deps\googletest-src\googletest C:\Users\svend\Desktop\IP-Radboud-team-19\build C:\Users\svend\Desktop\IP-Radboud-team-19\build\_deps\googletest-build\googletest C:\Users\svend\Desktop\IP-Radboud-team-19\build\_deps\googletest-build\googletest\CMakeFiles\gtest.dir\DependInfo.cmake "--color=$(COLOR)"
+	$(CMAKE_COMMAND) -E cmake_depends "MinGW Makefiles" C:\Users\svend\Desktop\IP-Radboud-team-19\Week5\Bonus C:\Users\svend\Desktop\IP-Radboud-team-19\build\_deps\googletest-src\googletest C:\Users\svend\Desktop\IP-Radboud-team-19\build C:\Users\svend\Desktop\IP-Radboud-team-19\build\_deps\googletest-build\googletest C:\Users\svend\Desktop\IP-Radboud-team-19\build\_deps\googletest-build\googletest\CMakeFiles\gtest.dir\DependInfo.cmake "--color=$(COLOR)"
 .PHONY : _deps/googletest-build/googletest/CMakeFiles/gtest.dir/depend
 
