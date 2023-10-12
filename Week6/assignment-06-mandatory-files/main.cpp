@@ -56,7 +56,7 @@ bool read_universe_file (string filename, Cell universe [NO_OF_ROWS][NO_OF_COLUM
             in = input_file.get();
          }
 
-         universe [row][i] = in;
+         universe [row][i] = char_to_cell(in);
 
 
 
@@ -80,7 +80,9 @@ int main ()
 {
     string filename = "10_cell_row.txt";
     open_file(input_file, filename);
-    cell_at()
+    Cell universe [NO_OF_ROWS][NO_OF_COLUMNS];
+    read_universe_file(filename, universe);
+    cout << cell_at(universe, 0, 0);
     return 0;
 }
 #endif
