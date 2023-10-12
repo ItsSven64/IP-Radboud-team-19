@@ -1,0 +1,14 @@
+{
+	"backtraceGraph" : 
+	{
+		"commands" : [],
+		"files" : [],
+		"nodes" : []
+	},
+	"installers" : [],
+	"paths" : 
+	{
+		"build" : "_deps/googletest-build",
+		"source" : "C:/Users/silke/OneDrive - Radboud Universiteit/Bureaublad/ImperativeProgramming/IP-Radboud-team-19/Week6/build/_deps/googletest-src"
+	}
+}

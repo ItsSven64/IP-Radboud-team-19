@@ -1,0 +1,5 @@
+if(EXISTS "C:/Users/silke/OneDrive - Radboud Universiteit/Bureaublad/ImperativeProgramming/IP-Radboud-team-19/Week6/build/assignment-06-mandatory_test[1]_tests.cmake")
+  include("C:/Users/silke/OneDrive - Radboud Universiteit/Bureaublad/ImperativeProgramming/IP-Radboud-team-19/Week6/build/assignment-06-mandatory_test[1]_tests.cmake")
+else()
+  add_test(assignment-06-mandatory_test_NOT_BUILT assignment-06-mandatory_test_NOT_BUILT)
+endif()
